@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[eo][dq][cq][cp]AW[co][bo][cm][dp][ep][hq][dn][em]C[LT{}-
+TYPE{0}-
+Q{黑先，请利用征吃吃子}-
+EL{FP,F}-]
+AP[MultiGo:4.4.4]SZ[19]AB[do]MULTIGOGM[1]
+
+(;B[fp];W[eq]C[EL{FQ,F}-]
+(;B[er];W[fq]C[EL{GQ,F}-];B[gq];W[fr]C[EL{GR,F}-];B[gr]C[T])
+(;B[fq];W[er]C[F])
+(;B[gq];W[fo]C[F])
+(;B[fr];W[fo]C[F]))
+(;B[fo];W[fq]C[F]))

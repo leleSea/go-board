@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[re][rf][qf][hh][oe][od][oc][ob][oa][kg][sd][se][ig][jg][lg][mg][nh]
+[gh][gi][gj][gk][ml][hl][hm][im][jm][km][lm][nj][nk][ni][nl]AW[ik][lh][kh][jh][ih]
+[qa][pa][mh][pb][pc][pd][pe][qe][rd][rc][sc][kj][hi][hj][hk][il][jl][kl][jj][ll]
+[mk][mj][mi]C[LT{}-
+TYPE{1}-
+Q{请问白棋这两块空哪块目数更多？}-
+S{A\:中腹的目数更多,B\:角上的目数更多}-
+CA{A}-]
+AP[MultiGo:4.4.4]SZ[19]AB[pf]MULTIGOGM[1]
+)

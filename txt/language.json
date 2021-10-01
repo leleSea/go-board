@@ -1,0 +1,17 @@
+{
+    "public": {
+        "confirm": "确定",
+        "cancel": "取消"
+    },
+    "view": {
+        "changePsw": {
+            "title": "修改密码",
+            "infoNotice": {
+                "pswOld": "请输入原始密码",
+                "pswNew": "请输入6-16位密码，至少包含一位字母及数字",
+                "pswNewRe": "请再次输入新密码",
+                "pswPlaceholder": "请输入新密码"
+            }
+        }
+    }
+}

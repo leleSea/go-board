@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[br][ar][dq][dp][ep][fp][fq][fr][dn][fn]AW[cq][cp][dr][er][eq][gr]
+[gq][gp][fs][cs][bs][co][go]C[LT{}-
+TYPE{0}-
+Q{黑先，请利用接不归吃子}-
+EL{ES,F}-]
+AP[MultiGo:4.4.4]SZ[19]AB[cr]MULTIGOGM[1]
+
+(;B[es];W[ds]C[EL{GS,F}-]
+(;B[as]C[T])
+(;B[gs];W[bq]C[F]))
+(;B[gs];W[hs]C[EL{ES,F}-];B[es];W[ds]C[EL{GS,F}-];B[as]C[T])
+(;B[hs];W[gs]C[F]))

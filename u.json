@@ -1,0 +1,25 @@
+{
+    "code": "0",
+    "msg": "",
+    "data": {
+        "classroomTeacherName": "周嘉宁",
+        "classroomTeacherLevel": 3000,
+        "classroomName": "ff",
+        "classroomBeginTime": {
+            "date": {
+                "year": 2020,
+                "month": 12,
+                "day": 1
+            },
+            "time": {
+                "hour": 10,
+                "minute": 10,
+                "second": 33,
+                "nano": 0
+            }
+        },
+        "classroomPasswordStatus": "1",
+        "teacherid": 0,
+        "studentid": [1,2,3,4,5]
+    }
+}

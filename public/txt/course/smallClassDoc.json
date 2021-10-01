@@ -1,0 +1,65 @@
+
+    [
+        {
+            "name": "课程简介",
+            "key": "student",
+            "content": [
+                {
+                    "title": "",
+                    "content": [
+                        [
+                            {"name": "col7.jpg"}
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "适合人群",
+            "key": "outline",
+            "content": [
+                {
+                    "title": "",
+                    "content": [
+                        [
+                            {"name": "col8.jpg"}
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "课程理念",
+            "key": "method",
+            "content": [
+                {
+                    "title": "",
+                    "content": [
+                        [
+                            {"name": "col9.png"}
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "课程安排",
+            "key": "schedule",
+            "content": [
+                {
+                    "title": "",
+                    "content": [
+                        [
+                            {"name": "col10.png"}
+                        ],
+                        [
+                            {"name": "col11.jpg"}
+                        ],
+                        [
+                            {"name": "col12.png"}
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]

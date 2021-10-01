@@ -1,0 +1,37 @@
+.le-input-box {
+  display: flex;
+  flex-flow: wrap;
+}
+.le-input-item:last-child {
+  margin: 0px;
+}
+.le-input-item {
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  margin-bottom: 1rem;
+}
+.le-input-item .item-title {
+  width: 5rem;
+}
+.le-input-item .item-value {
+  width: 100%;
+}
+.le-input-item .item-value .el-input__inner {
+  height: 1.5rem;
+}
+.le-input-item .item-value .el-date-editor.el-input,
+.le-input-item .item-value .el-date-editor.el-input__inner {
+  width: 100%;
+}
+.el-button.le-input-button {
+  width: 5rem;
+  height: 1.5rem;
+  margin-left: 2rem;
+}
+.el-button.le-input-button:first-child {
+  margin: 0px;
+}
+.le-input-date-select {
+  z-index: 99999 !important;
+}

@@ -1,0 +1,65 @@
+
+    [
+        {
+            "name": "适用学生",
+            "key": "student",
+            "content": [
+                {
+                    "title": "",
+                    "content": [
+                        [
+                            {"name": "col1.jpg"}
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "教育大纲",
+            "key": "outline",
+            "content": [
+                {
+                    "title": "",
+                    "content": [
+                        [
+                            {"name": "col2.jpg"}
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "教学方式",
+            "key": "method",
+            "content": [
+                {
+                    "title": "",
+                    "content": [
+                        [
+                            {"name": "col3.jpg"}
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "课程安排",
+            "key": "schedule",
+            "content": [
+                {
+                    "title": "",
+                    "content": [
+                        [
+                            {"name": "col4.jpg"}
+                        ],
+                        [
+                            {"name": "col5.jpg"}
+                        ],
+                        [
+                            {"name": "col6.png"}
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]

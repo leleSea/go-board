@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[qq][pq][oq][sp][sq][np][no][qn][rn][rm][nn][rl]AW[nr][so][ro][rp]
+[or][qp][pp][op][nq][mq][pn][om][qm][ql][qk]C[LT{}-
+TYPE{0}-
+Q{黑先，请利用乌龟不出头吃子}-
+EL{ON,F}-]
+AP[MultiGo:4.4.4]SZ[19]AB[rq]MULTIGOGM[1]
+
+(;B[po];W[oo]C[EL{ON,F}-];B[on];W[qo]C[EL{PM,F}-]
+(;B[sn]C[T])
+(;B[pm];W[pl];B[sn]C[T]))
+(;B[on];W[po]C[F])
+(;B[oo];W[po]C[F])
+(;B[pl];W[pm]C[F]))

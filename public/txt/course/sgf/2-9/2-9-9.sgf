@@ -1,0 +1,15 @@
+(;CA[gb2312]AB[cj][di][ei][ej][ek][cm][dn][em][el][bg][bh][bi][do][aj]AW[ci][co]
+[ch][dj][dk][ck][bk][dl][cn][bm][bf][cf][cg][cp][dq]C[LT{}-
+TYPE{0}-
+Q{黑先，请利用滚打包收吃子}-
+EL{DM,F}-]
+AP[MultiGo:4.4.4]SZ[19]AB[bj]MULTIGOGM[1]
+
+(;B[bl];W[cl]C[EL{DM,F}-]
+(;B[dm];W[al]C[EL{AK,F}-]
+(;B[ak]C[T])
+(;B[am];W[an]C[F])
+(;B[an];W[bn]C[F]))
+(;B[ak];W[al]C[EL{DM,F}];B[dm]C[T]))
+(;B[ak];W[bl]C[F])
+(;B[dm];W[bl]C[F]))

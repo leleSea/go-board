@@ -1,0 +1,4 @@
+(;CA[gb2312]SZ[19]AP[MultiGo:4.4.4]MULTIGOGM[0]
+;B[dd];AW[oe][mf]
+(;W[jd];B[pd];AB[df][if][of];W[dh];AW[gh][kh][oh];B[hh];W[nh])
+(;W[gg];B[ki];W[pj];B[sk]))

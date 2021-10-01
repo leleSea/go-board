@@ -1,0 +1,77 @@
+.comment-box {
+  color: #B0B0B2;
+  position: absolute;
+  top: calc(1.5rem);
+  left: 0px;
+  width: 100%;
+  height: calc(100% - 1.5rem);
+  padding-bottom: calc(1.4rem + 0.4rem);
+  display: flex;
+  align-items: flex-end;
+}
+.comment-box .comment-foot {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  padding: 0.2rem 0.5rem;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+}
+.comment-box .comment-foot .foot-item.inp {
+  width: 100%;
+  margin: 0px 0.3rem;
+}
+.comment-box .comment-foot .foot-item.inp .el-input__inner {
+  height: 1.4rem;
+  padding: 0px 0.2rem;
+}
+.comment-box .comment-foot .foot-item.sen .el-button {
+  height: 1.4rem;
+  width: 3.5rem;
+}
+.comment-box .comment-content {
+  width: 100%;
+  padding: 0rem 1rem;
+  margin: 0.5rem 0px;
+  height: calc(100% - 1rem);
+}
+.comment-box .comment-content .comment-content-body {
+  display: flex;
+  align-items: flex-start;
+  min-height: 100%;
+}
+.comment-box .comment-content .comment-content-body .comment-content-body-box {
+  width: 100%;
+}
+.comment-box .comment-content .content-item:last-child {
+  margin: 0px;
+}
+.comment-box .comment-content .content-item {
+  text-align: left;
+  display: flex;
+  margin-bottom: 0.3rem;
+}
+.comment-box .comment-content .content-item .user-area {
+  display: flex;
+  width: 100%;
+}
+.comment-box .comment-content .content-item .user-area .txt-name {
+  white-space: nowrap;
+  color: #fff;
+  float: left;
+}
+.comment-box .comment-content .content-item .user-area .txt-word {
+  width: 100%;
+  color: #ddd;
+  white-space: normal;
+  word-break: break-all;
+}
+.comment-box .comment-content .content-item .user-area .txt-time {
+  white-space: nowrap;
+  margin-left: 0.3rem;
+}
+.comment-box .comment-content .content-item .user-word {
+  color: #ddd;
+}

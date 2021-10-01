@@ -1,0 +1,57 @@
+
+.le-input-box{
+    display: flex;
+    flex-flow: wrap;
+}
+.le-input-item:last-child{
+    margin: 0px;
+}
+.le-input-item{
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    margin-bottom: 1rem;
+    .item-title{
+        text-align: left;
+        width: 5rem;
+    }
+    .item-value{
+        width: 100%;
+        .el-input__inner{
+            height: 1.5rem;
+        }
+        .el-date-editor.el-input, .el-date-editor.el-input__inner{
+            width: 100%;
+        }
+        .el-input__inner.error, .el-textarea__inner.error{
+            border: 1px solid @errorColor;
+        }
+        .error{
+            .el-input__inner, .el-textarea__inner{
+                border: 1px solid @errorColor;
+            }
+        }
+        .el-select{
+            width: 100%;
+        }
+    }
+}
+.le-input-error{
+    height: 1rem;
+    margin-bottom: 0.5rem;
+    .txt{
+        font-size: 0.6rem;
+        color: @errorColor;
+    }
+}
+.el-button.le-input-button{
+    width: 5rem;
+    height: 1.5rem;
+    margin-left: 2rem;
+}
+.el-button.le-input-button:first-child{
+    margin: 0px;
+}
+.le-input-date-select{
+    z-index: 99999 !important;
+}

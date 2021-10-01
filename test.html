@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <style>
+        body{
+            padding: 100px;
+        }
+        html{
+            font-size: 50px;
+        }
+        .stone-label-box{
+            z-index: 2;
+            bottom: -0.5rem;
+            -webkit-transform: rotateX(-33.5deg) rotateY(45deg);
+            transform: rotateX(-33.5deg) rotateY(45deg);
+            transform-style:preserve-3d;
+            width:1.5rem;
+            height:1.5rem;
+            -webkit-animation: thinking 2s infinite;
+            animation: thinking 2s infinite;
+            
+        }
+        .item{
+                width:1.5rem;
+                height:1.5rem;
+                float:left;
+                position:absolute;
+                top:0px;
+                left:0px;
+                opacity: 0.3;
+            }
+            .item.A{
+                background:#FF0000;
+                transform:rotateX(90deg);
+                top:-0.75rem;
+                background: -webkit-radial-gradient(#fff, #2196F3);
+                background: -o-radial-gradient(#fff, #2196F3);
+                background: -moz-radial-gradient(#fff, #2196F3);
+                background: radial-gradient(#fff, #2196F3);
+            }
+            .item.B{
+                background:#FFFF00;
+                transform:rotateX(90deg);
+                top:0.75rem;
+                background: radial-gradient(#fff, #2196F3);
+            }
+            .item.C{
+                background:#008000;
+                transform: translateZ(0.75rem);
+                background: radial-gradient(#fff, #2196F3);
+            }
+            .item.D{
+                background:#FF9800;
+                transform: translateZ(-0.75rem);
+                background: radial-gradient(#fff, #2196F3);
+            }
+            .item.E{
+                background:#673AB7;
+                transform:rotateY(90deg);
+                left:0.75rem;
+                background: radial-gradient(#fff, #2196F3);
+            }
+            .item.F{
+                background:#2196F3;
+                transform:rotateY(90deg);
+                left:-0.75rem;
+                background: radial-gradient(#fff, #2196F3);
+            }
+            @-webkit-keyframes thinking{
+                0% {
+                    -ms-transform: rotateX(-33.5deg) rotateY(45deg);
+                    -webkit-transform: rotateX(-33.5deg) rotateY(45deg);
+                    transform: rotateX(-33.5deg) rotateY(45deg);
+                    }
+                100%{
+                    -ms-transform: rotateX(-33.5deg) rotateY(405deg); 
+                    -webkit-transform: rotateX(-33.5deg) rotateY(405deg);
+                    transform: rotateX(-33.5deg) rotateY(405deg);
+                    }
+            }		
+            @keyframes thinking{
+            0% {
+                -ms-transform: rotateX(-33.5deg) rotateY(45deg);
+                    -webkit-transform: rotateX(-33.5deg) rotateY(45deg);
+                    transform: rotateX(-33.5deg) rotateY(45deg);
+                }
+            100% {
+                -ms-transform: rotateX(-33.5deg) rotateY(405deg); 
+                    -webkit-transform: rotateX(-33.5deg) rotateY(405deg);
+                    transform: rotateX(-33.5deg) rotateY(405deg);
+                }
+            }
+    </style>
+  </head>
+  <body>
+    <div class="stone-label-box">
+        <div class="item A"></div>
+        <div class="item B"></div>
+        <div class="item C"></div>
+        <div class="item D"></div>
+        <div class="item E"></div>
+        <div class="item F"></div>
+    </div>
+  </body>
+</html>

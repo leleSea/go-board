@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[oc][nd][pd][pe][pf][pg]AW[od][oe][pc][pb][qd][qe][qf][qg][ph]C[LT{}-
+TYPE{0}-
+Q{黑先，请利用枷吃吃子}-
+EL{NE,F}-]
+AP[MultiGo:4.4.4]SZ[19]AB[ob]MULTIGOGM[1]
+
+(;B[nf];W[ne]C[EL{ME,F}-];B[me];W[of]C[EL{OG,F}-];B[og]C[T])
+(;B[ne];W[of]C[EL{OG,F}-];B[og];W[nf]C[EL{MF,L}-];B[mf];W[ng]C[F])
+(;B[me];W[og]C[F]))

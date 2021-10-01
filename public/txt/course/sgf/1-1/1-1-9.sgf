@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[dp][jj]AW[cd][pq]C[LT{JJ}-
+TYPE{1}-
+Q{白棋这一手落在了棋盘的哪个区域？}-
+S{A:边,B:角,C:中腹}-
+CA{C}]
+AP[MultiGo:4.4.4]SZ[19]AB[qc]MULTIGOGM[1]
+)

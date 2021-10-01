@@ -1,0 +1,188 @@
+.prob-7003{
+    .balance-box{
+        margin-bottom: 1rem;
+        .balance-not-enough{
+            margin-bottom: 1rem;
+            .message{
+                display: flex;
+                justify-content: center;
+            }
+        }
+    }
+    .purchase-7003{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        .purchase-item{
+            display: flex;
+            align-items: center;
+            background: #fff;
+            // padding-right: 1rem;
+            min-width: 10rem;
+            margin-right: 0.5rem;
+            .item-price{
+                width: 3rem;
+                text-align: right;
+                padding-right: 1rem;
+            }
+            .props-item{
+                height: 1.7rem;
+                min-height: 0px;
+            }
+            .store-prop-item-com{
+                width: 100%;
+            }
+        }
+        .purchase-fun{
+            .el-button{
+                height: 1.5rem;
+                // width: 10rem;
+                padding: 0 1rem;
+            }
+        }
+        .more-icon.props-item{
+            padding: 0px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            .props-item-txt-box{
+                margin: 0px;
+            }
+        }
+    }
+    .get-prob-type{
+        margin-bottom: 1rem;
+    }
+    .recharge-btn{
+        margin-left: 0.5rem;
+    } 
+    
+    .props-buy-i-body{
+        width: 22rem;
+        cursor: pointer;
+        border: 1px solid #AFAFAF;
+        padding: 0rem 1.5rem;
+        display: flex;
+        background: #fff;
+        .i-it{
+            width: 50%;
+        } 
+        .prop-price-box{
+            text-align: right;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            .orginal-price{
+                margin-right: 0.5rem;
+            }
+        }
+        .props-item{
+            justify-content: flex-start;
+        }
+    }
+}
+
+.create-report{
+    .purchase-7003{
+        margin-bottom: 1rem;
+    }
+    .purchase-7003:last-child{
+        margin: 0px;
+    }
+    .le-confirm-foot{
+        margin-top: 1rem;
+    }
+    .report-select-box{
+        margin-top: 1rem;
+        .report-select-list{
+            padding: 1rem 0px 0px;
+            display: flex;
+            .el-radio{
+                display: flex;
+                align-items: center;
+            }
+            .report-type-list-item-body{
+                display: flex;
+                align-items: center;
+            }
+            .report-type-icon{
+                width: 1rem;
+                margin-right: 0.3rem;
+            }
+            .report-type-list-item{
+                margin-right: 1rem;
+            }
+            .report-type-list-item:last-child{
+                margin: 0px;
+            }
+        }
+        
+    }
+    .report-select-data{
+        .el-radio-group{
+            display: flex;
+            align-items: center;
+            width: 100%;
+        }
+        .el-radio{
+            margin-right: 1rem;
+            color: inherit;
+            display: flex;
+            align-items: center;
+        }
+        .el-radio__label{
+            font-size: 0.8rem;
+            padding-left: 0.5rem;
+        }
+        .el-radio__inner{
+            background: none;
+            border: 1.5px solid #464646;
+            width: 0.8rem;
+            height: 0.8rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .el-radio__input.is-checked+.el-radio__label{
+            color: inherit;
+        }
+        .el-radio__inner::after{
+            content: '';
+            width: 0.25rem;
+            height: 0.25rem;
+            border-radius: 100%;
+            background-color: #464646;
+            position: static;
+            transform: translate(0,0) scale(0)
+        }
+        .el-radio__input.is-checked .el-radio__inner::after{
+            transform: translate(0,0) scale(1)
+        }
+    }
+}
+
+
+.start-analyse{
+    .get-prob-type{
+        .purchase-7003{
+            width: 70%;
+            margin: 1rem auto;
+            .el-select{
+                background: #fff;
+            }
+            .play-ready-game-set-s.dark, .play-ready-game-set-s.light {
+                .el-select-dropdown__item.hover{
+                    background: #ddd;
+                }
+                .el-select-dropdown__item.selected{
+                    color: #000;
+                    font-weight: 700;
+                }
+                .item-i.status.theme-status-available-font-color{
+                    color: @statusAvailableFontColorLight;
+                } 
+            }
+        }
+    }
+}

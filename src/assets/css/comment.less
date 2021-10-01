@@ -1,0 +1,82 @@
+.comment-box{
+    @inputHeight: 1.4rem;
+    color: #B0B0B2;
+    position: absolute;
+    top: calc(1.5rem);
+    left: 0px;
+    width: 100%;
+    height: calc(100% - 1.5rem);
+    padding-bottom: calc(@inputHeight + 0.4rem);
+    display:flex;
+    align-items: flex-end;
+    .comment-foot{
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        width: 100%;
+        padding: 0.2rem 0.5rem;
+        white-space: nowrap;
+        display: flex;
+        align-items: center;
+        .foot-item.inp{
+            width: 100%;
+            margin: 0px 0.3rem;
+            .el-input__inner{
+                height: @inputHeight;
+                padding: 0px 0.2rem;
+            }
+        } 
+        .foot-item.sen{
+            .el-button{
+                height: @inputHeight;
+                width: 3.5rem;
+            }
+            
+        }
+    }
+    .comment-content{
+        width: 100%;
+        padding: 0rem 1rem;
+        margin: 0.5rem 0px;
+        height: calc(100% - 1rem);
+        
+        .comment-content-body{
+            display: flex;
+            align-items: flex-start;
+            min-height: 100%;
+            .comment-content-body-box{
+                width: 100%;
+            }
+        }
+        .content-item:last-child{
+            margin: 0px;
+        }
+        .content-item{
+            text-align: left;
+            display: flex;
+            margin-bottom: 0.3rem;
+            .user-area{
+                display: flex;
+                width: 100%;
+                .txt-name{
+                    white-space: nowrap;
+                    color: #fff;
+                    float: left;
+                }
+                .txt-word{
+                    width: 100%;
+                    color: #ddd;
+                    white-space: normal;
+                    word-break: break-all;
+                }
+                .txt-time{
+                    white-space: nowrap;
+                    margin-left: 0.3rem;
+                }
+            }
+            .user-word{
+                color: #ddd;
+            }
+        }
+    }
+}

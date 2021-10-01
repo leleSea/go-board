@@ -1,0 +1,13 @@
+{
+    "content": [
+        {"imgs": "goods_detail/img/media/de1.jpg"},
+        {"imgs": "goods_detail/img/media/de2.jpg"},
+        {"imgs": "goods_detail/img/media/de4.jpg"},
+        {"imgs": "goods_detail/img/media/de5.jpg"},
+        {"imgs": "goods_detail/img/media/de6.jpg"},
+        {"imgs": "goods_detail/img/media/de7.jpg"},
+        {"main_title": "课程详情", "class": "media-main-title"},
+        {"slot": "media_log"},
+        {"imgs": "goods_detail/img/media/de9.jpg"}
+    ]
+}

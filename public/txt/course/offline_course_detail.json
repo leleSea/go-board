@@ -1,0 +1,5 @@
+[{"order":0,"teacher":"贾云坤","price":1000,"lessons":10,"duration":60,"student_num":"3-5人","student_level":"10级-5级","curriculum":"2021-6-29起每周二晚上7:00","id":1
+},{"teacher":"王佳悦","price":1200,"lessons":10,"duration":60,"student_num":"3-5人","student_level":"2级-1级","curriculum":"2021-7-2起每周五晚上7:00～8:00","id":2
+},{"teacher":"邵连涛","price":1400,"lessons":10,"duration":60,"student_num":"3-5人","student_level":"1段-2段","curriculum":"2021-6-30起每周三晚上7:00","id":3
+},{"teacher":"汪文琪","price":2250,"lessons":10,"duration":90,"student_num":"3-5人","student_level":"3段-5段","curriculum":"2021-6-29起每周二晚上7:00","id":4
+}]

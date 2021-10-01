@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[cd][dc][ec][fc][ee][ff][df][dg][dh]AW[bc][bd][be][cb][cf][cg][db]
+[fb][eb][gc][gd][ge][ed]C[LT{}-
+TYPE{0}-
+Q{白先，请利用乌龟不出头吃子}-
+EL{DE,F}-]
+AP[MultiGo:4.4.4]SZ[19]AB[cc]MULTIGOGM[1]
+;W[de];B[fd]C[EL{FE,F}-]
+(;W[fe];B[dd]C[EL{CE,F}-];W[ce]C[T])
+(;W[dd];B[ce]C[F]))

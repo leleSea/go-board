@@ -1,0 +1,13 @@
+(;CA[gb2312]AB[do][dn][eq][fq][fr][gr][hr]AW[co][cp][dq][dr][er][ep][fp][bm][cl]
+[el]C[LT{}-
+TYPE{0}-
+Q{黑先，请利用枷吃吃子}-
+EL{GP,F}-]AP[MultiGo:4.4.4]SZ[19]
+AB[dp]MULTIGOGM[1]
+
+(;B[go];W[gp]C[EL{HP,F}-]
+(;B[hp];W[fo]C[EL{FN,F}-];B[fn];W[gn]C[EL{HO,F}-];B[ho];W[en]C[EL{FM,F}-];B[fm]
+;W[em]C[EL{EO,F}-];B[eo]C[T])
+(;B[ho];W[hp]C[EL{IP,F}-];B[ip];W[en]C[F]))
+(;B[hp];W[fn]C[F])
+(;B[gp];W[fo]C[F]))

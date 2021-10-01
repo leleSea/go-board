@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qi][rk][rj][rl][qm][qn][qo][qp][pq][pr][op][oo]AW[pm][pn][ql][qk]
+[qj][pi][po][pp][oq][nq][nn][ph]C[LT{}-
+TYPE{0}-
+Q{黑先，请利用关门吃吃子}-
+EL{PL,F}-]
+AP[MultiGo:4.4.4]SZ[19]AB[ol]MULTIGOGM[1]
+
+(;B[pl];W[on]C[EL{PJ,F}-];B[pj]C[T])
+(;B[om];W[on]C[F])
+(;B[pj];W[pl]C[EL{ON,F}-];B[on];W[oj]C[EL{PK,F}-];B[om];W[pk]C[F]))

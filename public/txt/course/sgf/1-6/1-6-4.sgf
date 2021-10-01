@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ig][hh][gh][gi][jm][gk][gl][hl][im][ni][km][ll][ml][nk][nj][jg][nh]
+[mh][lg][kg]AW[mi][jh][ii][kh][lh][mj][mk][lk][kj][jl][ik][il][hk][hj][ih][kl][hi]
+C[LT{}-
+TYPE{1}-
+Q{请问白棋这块空有几目？}-
+S{A\:8目,B\:9目,C\:11目,D\:25目}-
+CA{A}-]
+AP[MultiGo:4.4.4]SZ[19]AB[gj]MULTIGOGM[1]
+)

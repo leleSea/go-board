@@ -1,0 +1,144 @@
+{
+    "banner": {
+        "word": [
+            {
+                "content": [
+                    [
+                        {"css": "bab", "txt": "4"},
+                        {"css": "bas", "txt": "次世界人工智能围棋大赛冠军"}
+                    ],
+                    [
+                        {"css": "bas", "txt": "人工智能围棋第一网站"}
+                    ]
+                ]
+            },
+            {
+                "content": [
+                    [
+                        {"css": "bas", "txt": "拥有注册会员"},
+                        {"css": "bab", "txt": "16万"}
+                    ],
+                    [
+                        {"css": "bas", "txt": "有"},
+                        {"css": "bab", "txt": "323"},
+                        {"css": "bas", "txt": "名职业棋手使用星阵"}
+                    ]
+                ]
+            },
+            {
+                "content": [
+                    [
+                        {"css": "bas", "txt": "初学者的好陪练"}
+                    ],
+                    [
+                        {"css": "bas", "txt": "顶尖棋手的好老师"}
+
+                    ]
+                ]
+            }
+        ]
+    },
+    "mainContent": [
+        {
+            "img": "ine1",
+            "button": {"css": "main-button-bcg", "txt": "马上对弈", "fun": "gotoGame"},
+            "title": "智能对弈",
+            "detail": "game",
+            "content": [
+                [
+                    {"css": "b", "txt": "37"},
+                    {"css": "s", "txt": "个不同等级的星阵智能棋手。"}
+                ],
+                [
+                    {"css": "s", "txt": "无论你是入门还是职业顶尖，总有一个适合你。"}
+                ],
+                [
+                    {"css": "s", "txt": "随时随地的围棋陪练，每个阶梯都见证你的成长。"}
+                ],
+                [
+                    {"css": "s", "txt": "星阵陪练已完成"},
+                    {"css": "b", "txt": "2387万"},
+                    {"css": "s", "txt": "盘对局。"}
+                ]
+            ]
+        },
+        {
+            "img": "ine2",
+            "button": {"css": "main-button-bcg", "txt": "立即研究", "fun": "gotoEngine"},
+            "title": "分析研究",
+            "detail": "engine",
+            "content": [
+                [
+                    {"css": "s", "txt": "顶尖围棋AI，大算力权威分析数据。"}
+                ],
+                [
+                    {"css": "s", "txt": "胜率，子差多角度评价，更易理解。"}
+                ],
+                [
+                    {"css": "s", "txt": "操作简单，随时随地分析你想了解的局面。"}
+                ],
+                [
+                    {"css": "s", "txt": "星阵已经分析过"},
+                    {"css": "b", "txt": "10亿"},
+                    {"css": "s", "txt": "个局面。"}
+                ]
+            ]
+        },
+        {
+            "img": "ine3",
+            "button": {"css": "main-button-bcg", "txt": "生成报告", "fun": "gotoReport"},
+            "title": "复盘报告",
+            "detail": "report",
+            "content": [
+                [
+                    {"css": "s", "txt": "全面分析棋局的每一手的每一个变化，发现问题手。"}
+                ],
+                [
+                    {"css": "s", "txt": "一键生成立等可取，云端保存随时查阅，方便分享。"}
+                ],
+                [
+                    {"css": "s", "txt": "是老师授课、棋手复盘的利器。"}
+                ],
+                [
+                    {"css": "s", "txt": "星阵已生成"},
+                    {"css": "b", "txt": "2万"},
+                    {"css": "s", "txt": "张报告。"}
+                ]
+            ]
+        },
+        {
+            "img": "ine5",
+            "button": {"css": "main-button-bcg", "txt": "观看直播", "fun": "gotoLive"},
+            "title": "大赛直播",
+            "detail": "live",
+            "content": [
+                [
+                    {"css": "s", "txt": "全自动AI直播，大赛一网打尽。"}
+                ],
+                [
+                    {"css": "s", "txt": "最全面权威的AI分析，不错过棋局的每一个细节。"}
+                ],
+                [
+                    {"css": "s", "txt": "掌握棋局的每一个精彩瞬间。"}
+                ]
+            ]
+        },
+        {
+            "img": "ine4",
+            "button": {"css": "main-button-bcg", "txt": "开展训练", "fun": "gotoSubject"},
+            "title": "专项特训",
+            "detail": "subject",
+            "content": [
+                [
+                    {"css": "s", "txt": "针对9个不同的围棋技术专项，全新的训练方法。"}
+                ],
+                [
+                    {"css": "s", "txt": "帮助不同等级的棋手，有针对性的提升专项水平。"}
+                ],
+                [
+                    {"css": "s", "txt": "遴选上千个盘面，更贴近实战。"}
+                ]
+            ]
+        }
+    ]
+}

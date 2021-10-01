@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[pp][pq][rq][nn][mo][np][mq][oo][qr]AW[qo][po][on][om][op][oq][or]
+C[LT{OO}-
+TYPE{1}-
+Q{黑棋上一手走在P5（没有提子），请问白棋此时可不可以提劫？}-
+S{A\:可以,B\:不可以}-
+CA{A}-]
+AP[MultiGo:4.4.4]SZ[19]AB[qp]MULTIGOGM[1]
+)

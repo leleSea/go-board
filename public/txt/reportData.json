@@ -1,0 +1,242 @@
+{
+    "0": {
+        "id": 52744,
+        "gameId": 1877,
+        "moveNum": 0,
+        "data": "{\"value\":0.4039,\"score\":-1.9003,\"number\":1921.0,\"coord\":\"NULL\",\"options\":[{\"branch\":\"A\",\"coord\":\"R16\",\"prob\":0.5613,\"proportion\":0.5372,\"number\":1032.0,\"winrate\":0.4028,\"delta\":-2.0,\"variation\":\"D16,Q3,D4,O16,R5,O4,Q9,F17,M17,C14,F16,G16,F15,D17\"},{\"branch\":\"B\",\"coord\":\"Q16\",\"prob\":0.4383,\"proportion\":0.4623,\"number\":888.0,\"winrate\":0.405,\"delta\":-1.7,\"variation\":\"Q4,D16,D4,R6,C17,D17,C16,D15,B14,O3,Q6,Q7,P6,R4,R3,R5,O4,C3,C4,D3,F3\"}],\"level\":1.0,\"evaluate\":0.9966}",
+        "area": "",
+        "branch": ""
+    },
+    "1": {
+        "id": 52726,
+        "gameId": 1877,
+        "moveNum": 1,
+        "data": "{\"value\":0.5949,\"score\":1.7025,\"number\":1300.0,\"coord\":\"Q16\",\"options\":[{\"branch\":\"A\",\"coord\":\"Q4\",\"prob\":0.5483,\"proportion\":0.5915,\"number\":769.0,\"winrate\":0.5968,\"delta\":1.8,\"variation\":\"D16,D4,R6,C17,D17,C16,D15,B14,O3,Q6,Q7,P6,R4,R3,R5,O4,C3,C4,D3,F3\"},{\"branch\":\"B\",\"coord\":\"D4\",\"prob\":0.3586,\"proportion\":0.37,\"number\":481.0,\"winrate\":0.5955,\"delta\":1.8,\"variation\":\"Q4,D16,F17,R3,Q3,R4,R6,S6,C14,F16,G16,F15,D17,G17,E17,H16,S7,G15\"},{\"branch\":\"C\",\"coord\":\"Q13\",\"prob\":0.091,\"proportion\":0.0377,\"number\":49.0,\"winrate\":0.5606,\"delta\":0.5,\"variation\":\"D16,D4,Q4,C17,C16,D17,F17,E17,E16,F18,F3,C6,O3,O17,R14,Q18,O16,N16,O15\"}],\"level\":3.0,\"evaluate\":3.0414}",
+        "area": "",
+        "branch": ""
+    },
+    "2": {
+        "id": 52727,
+        "gameId": 1877,
+        "moveNum": 2,
+        "data": "{\"value\":0.4394,\"score\":-0.5,\"number\":1506.0,\"coord\":\"Q13\",\"options\":[{\"branch\":\"A\",\"coord\":\"D16\",\"prob\":0.1735,\"proportion\":0.257,\"number\":387.0,\"winrate\":0.447,\"delta\":-0.3,\"variation\":\"D4,Q4,C17,C16,D17,F17,E17,E16,F18,F3,C6,O3,O17,R14,Q18,O16,N16,O15\"},{\"branch\":\"B\",\"coord\":\"Q4\",\"prob\":0.1577,\"proportion\":0.1946,\"number\":293.0,\"winrate\":0.443,\"delta\":-0.4,\"variation\":\"D4,D16,O3,C3,D3,C4,D5,B6,R17,R16,Q17,P16\"},{\"branch\":\"C\",\"coord\":\"D4\",\"prob\":0.1136,\"proportion\":0.1707,\"number\":257.0,\"winrate\":0.4471,\"delta\":-0.2,\"variation\":\"Q4,D16,C3,C4,D3,E4,F2,R3,Q3,R4,R6,R5,Q5,S6\"},{\"branch\":\"D\",\"coord\":\"M14\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.3993,\"delta\":-1.8,\"variation\":\"D16,Q3,D4,Q5,Q6,R5,O17,C3,D3,C4,C6\"}],\"level\":3.0,\"evaluate\":3.0536999999999996}",
+        "area": "",
+        "branch": ""
+    },
+    "3": {
+        "id": 52721,
+        "gameId": 1877,
+        "moveNum": 3,
+        "data": "{\"value\":0.6007,\"score\":1.8,\"number\":1477.0,\"coord\":\"M14\",\"options\":[{\"branch\":\"A\",\"coord\":\"D16\",\"prob\":0.2261,\"proportion\":0.2762,\"number\":408.0,\"winrate\":0.6038,\"delta\":2.0,\"variation\":\"Q3,D4,Q5,Q6,R5,O17,C3,D3,C4,C6\"},{\"branch\":\"B\",\"coord\":\"Q4\",\"prob\":0.1662,\"proportion\":0.1923,\"number\":284.0,\"winrate\":0.6026,\"delta\":2.0,\"variation\":\"D16,D4,R3,Q3,R4,R6,R5,Q5,S6,C17,C16,D17\"},{\"branch\":\"C\",\"coord\":\"D4\",\"prob\":0.1177,\"proportion\":0.1429,\"number\":211.0,\"winrate\":0.6038,\"delta\":2.1,\"variation\":\"D16,Q4,C3,C4,D3,F3,F2,R17,R16,Q17,P16,O18\"},{\"branch\":\"D\",\"coord\":\"N16\",\"prob\":7.0E-4,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.5749,\"delta\":0.7,\"variation\":\"D4,D16,Q4,R17,R16,Q17,P16,P17,S17,O16,S15,O14,C17,C16,D17,F17\"}],\"level\":3.0,\"evaluate\":3.0341}",
+        "area": "",
+        "branch": ""
+    },
+    "4": {
+        "id": 52722,
+        "gameId": 1877,
+        "moveNum": 4,
+        "data": "{\"value\":0.4251,\"score\":-0.7,\"number\":1546.0,\"coord\":\"N16\",\"options\":[{\"branch\":\"A\",\"coord\":\"D4\",\"prob\":0.1192,\"proportion\":0.2309,\"number\":357.0,\"winrate\":0.4359,\"delta\":-0.2,\"variation\":\"D16,Q4,R17,R16,Q17,P16,P17,S17,O16,S15,O14,C17,C16,D17,F17\"},{\"branch\":\"B\",\"coord\":\"D16\",\"prob\":0.1361,\"proportion\":0.196,\"number\":303.0,\"winrate\":0.4307,\"delta\":-0.5,\"variation\":\"Q4,D4,R17,R16,Q17,P16,P17,S17,S18,O16,O17,N15,M16,Q10\"},{\"branch\":\"C\",\"coord\":\"Q4\",\"prob\":0.0949,\"proportion\":0.1378,\"number\":213.0,\"winrate\":0.4312,\"delta\":-0.5,\"variation\":\"D4,D16,R17,Q17,R16,Q15,R15,Q14,R14,P13,P12,O13,J17,G17,L16,Q12,R13,Q11\"},{\"branch\":\"D\",\"coord\":\"L14\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.2877,\"delta\":-4.1,\"variation\":\"D16,Q4,D4,O15,R10,K17,R17,Q17,R16,R15,Q15,Q14,P15,P14,P16,R18,P17\"}],\"level\":4.0,\"evaluate\":4.1638}",
+        "area": "",
+        "branch": ""
+    },
+    "5": {
+        "id": 52737,
+        "gameId": 1877,
+        "moveNum": 5,
+        "data": "{\"value\":0.7123,\"score\":4.1,\"number\":1484.0,\"coord\":\"L14\",\"options\":[{\"branch\":\"A\",\"coord\":\"D16\",\"prob\":0.1058,\"proportion\":0.2163,\"number\":321.0,\"winrate\":0.7248,\"delta\":4.5,\"variation\":\"Q4,D4,O15,R10,K17,R17,Q17,R16,R15,Q15,Q14,P15,P14,P16,R18,P17\"},{\"branch\":\"B\",\"coord\":\"R17\",\"prob\":0.0996,\"proportion\":0.1375,\"number\":204.0,\"winrate\":0.7187,\"delta\":4.0,\"variation\":\"Q17,R16,Q15,R15,D16,D4,Q4,Q14,P18,R18,M17,F17,E17\"},{\"branch\":\"C\",\"coord\":\"C16\",\"prob\":0.0483,\"proportion\":0.1166,\"number\":173.0,\"winrate\":0.7279,\"delta\":4.2,\"variation\":\"Q4,D4,O15,K17,R11,Q17,P17,R17,R16,P18,O17\"},{\"branch\":\"D\",\"coord\":\"K14\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.5904,\"delta\":1.1,\"variation\":\"D16,D4,Q4,R17,R16,Q17,P16,P17,O16,O17,N15,M16,Q10,K15,K13,O14\"}],\"level\":4.0,\"evaluate\":4.148000000000001}",
+        "area": "",
+        "branch": ""
+    },
+    "6": {
+        "id": 52734,
+        "gameId": 1877,
+        "moveNum": 6,
+        "data": "{\"value\":0.4096,\"score\":-1.1,\"number\":1667.0,\"coord\":\"K14\",\"options\":[{\"branch\":\"A\",\"coord\":\"D16\",\"prob\":0.1403,\"proportion\":0.2304,\"number\":384.0,\"winrate\":0.4179,\"delta\":-0.9,\"variation\":\"D4,Q4,R17,R16,Q17,P16,P17,O16,O17,N15,M16,Q10,K15,K13,O14\"},{\"branch\":\"B\",\"coord\":\"K15\",\"prob\":0.1006,\"proportion\":0.1746,\"number\":291.0,\"winrate\":0.4191,\"delta\":-1.0,\"variation\":\"D16,Q4,D4,P17,J17,H16,H17,R11,G16,P11,O12,O11,N12\"},{\"branch\":\"C\",\"coord\":\"D4\",\"prob\":0.109,\"proportion\":0.1176,\"number\":196.0,\"winrate\":0.4087,\"delta\":-1.0,\"variation\":\"D16,Q4,R17,R16,Q17,P16,P17,O16,O17,N15\"},{\"branch\":\"D\",\"coord\":\"G17\",\"prob\":3.0E-4,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.3781,\"delta\":-2.0,\"variation\":\"C16,Q4,D4,K15,R17,Q17,R16,Q15,R15,Q14,R14,P13,P12,O13\"}],\"level\":3.0,\"evaluate\":3.0442}",
+        "area": "",
+        "branch": ""
+    },
+    "7": {
+        "id": 52724,
+        "gameId": 1877,
+        "moveNum": 7,
+        "data": "{\"value\":0.6219,\"score\":2.0,\"number\":1495.0,\"coord\":\"G17\",\"options\":[{\"branch\":\"A\",\"coord\":\"C16\",\"prob\":0.1273,\"proportion\":0.2314,\"number\":346.0,\"winrate\":0.633,\"delta\":2.3,\"variation\":\"Q4,D4,K15,R17,Q17,R16,Q15,R15,Q14,R14,P13,P12,O13\"},{\"branch\":\"B\",\"coord\":\"R17\",\"prob\":0.1062,\"proportion\":0.1592,\"number\":238.0,\"winrate\":0.6299,\"delta\":2.0,\"variation\":\"Q17,R16,Q15,R15,Q14,R14,P13,K16,D16,P12,O13,Q4,C4\"},{\"branch\":\"C\",\"coord\":\"D17\",\"prob\":0.0825,\"proportion\":0.1171,\"number\":175.0,\"winrate\":0.6284,\"delta\":2.2,\"variation\":\"K15,Q17,R17,P17,R16,L17,C15,E16,E14\"},{\"branch\":\"D\",\"coord\":\"F13\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.5463,\"delta\":0.3,\"variation\":\"D16,D4,Q4,R17,Q17,R16,Q15,R15,Q14,R14,P13,P12,O13,K16,K13,J14,J13\"}],\"level\":4.0,\"evaluate\":4.0947000000000005}",
+        "area": "",
+        "branch": ""
+    },
+    "8": {
+        "id": 52728,
+        "gameId": 1877,
+        "moveNum": 8,
+        "data": "{\"value\":0.4537,\"score\":-0.3,\"number\":1116.0,\"coord\":\"F13\",\"options\":[{\"branch\":\"A\",\"coord\":\"D16\",\"prob\":0.1672,\"proportion\":0.5215,\"number\":582.0,\"winrate\":0.4708,\"delta\":0.0,\"variation\":\"D4,Q4,R17,Q17,R16,Q15,R15,Q14,R14,P13,P12,O13,K16,K13,J14,J13\"},{\"branch\":\"B\",\"coord\":\"C16\",\"prob\":0.1161,\"proportion\":0.0851,\"number\":95.0,\"winrate\":0.4383,\"delta\":-0.8,\"variation\":\"D4,Q4,D16,C17,R17\"},{\"branch\":\"C\",\"coord\":\"K15\",\"prob\":0.0751,\"proportion\":0.0717,\"number\":80.0,\"winrate\":0.4483,\"delta\":-0.4,\"variation\":\"C16,Q4,D3,P17,N14,D16\"},{\"branch\":\"D\",\"coord\":\"F11\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.3722,\"delta\":-2.2,\"variation\":\"C16,D4,R17,Q17,R16,Q15,R15,R18,S18,P18\"}],\"level\":4.0,\"evaluate\":4.107399999999999}",
+        "area": "",
+        "branch": ""
+    },
+    "9": {
+        "id": 52719,
+        "gameId": 1877,
+        "moveNum": 9,
+        "data": "{\"value\":0.6278,\"score\":2.2,\"number\":1391.0,\"coord\":\"F11\",\"options\":[{\"branch\":\"A\",\"coord\":\"C16\",\"prob\":0.1473,\"proportion\":0.3235,\"number\":450.0,\"winrate\":0.6418,\"delta\":2.6,\"variation\":\"D4,R17,Q17,R16,Q15,R15,R18,S18,P18\"},{\"branch\":\"B\",\"coord\":\"D17\",\"prob\":0.1515,\"proportion\":0.1725,\"number\":240.0,\"winrate\":0.6291,\"delta\":2.1,\"variation\":\"D4,R17,Q17,R16,Q15,R15,Q14,R14,P13,P12,O13\"},{\"branch\":\"C\",\"coord\":\"D16\",\"prob\":0.1155,\"proportion\":0.1725,\"number\":240.0,\"winrate\":0.6353,\"delta\":2.4,\"variation\":\"K15,D4,Q4,R17,Q17,R16,Q15,R15,Q14,R14,P13,P12,O13\"},{\"branch\":\"D\",\"coord\":\"L11\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.5264,\"delta\":-0.1,\"variation\":\"D16,D4,Q4,R17,Q17,R16,Q15,R15,R18,S18,P18,R19,Q14,R14,P13,K15\"}],\"level\":4.0,\"evaluate\":4.1262}",
+        "area": "",
+        "branch": ""
+    },
+    "10": {
+        "id": 52733,
+        "gameId": 1877,
+        "moveNum": 10,
+        "data": "{\"value\":0.4736,\"score\":0.1,\"number\":994.0,\"coord\":\"L11\",\"options\":[{\"branch\":\"A\",\"coord\":\"D16\",\"prob\":0.1708,\"proportion\":0.664,\"number\":660.0,\"winrate\":0.493,\"delta\":0.5,\"variation\":\"D4,Q4,R17,Q17,R16,Q15,R15,R18,S18,P18,R19,Q14,R14,P13,K15\"},{\"branch\":\"B\",\"coord\":\"D4\",\"prob\":0.1006,\"proportion\":0.0523,\"number\":52.0,\"winrate\":0.4412,\"delta\":-0.5,\"variation\":\"D16,K15,Q4,O15,R17,Q17,R16,R15\"},{\"branch\":\"D\",\"coord\":\"P12\",\"prob\":1.0E-4,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.3985,\"delta\":-1.8,\"variation\":\"C16,Q4,D4,K15,P13,P17,P15,N12,N13\"}],\"level\":4.0,\"evaluate\":4.1037}",
+        "area": "",
+        "branch": ""
+    },
+    "11": {
+        "id": 52732,
+        "gameId": 1877,
+        "moveNum": 11,
+        "data": "{\"value\":0.6015,\"score\":1.8,\"number\":1557.0,\"coord\":\"P12\",\"options\":[{\"branch\":\"A\",\"coord\":\"C16\",\"prob\":0.0874,\"proportion\":0.2036,\"number\":317.0,\"winrate\":0.6153,\"delta\":2.1,\"variation\":\"Q4,D4,K15,P13,P17,P15,N12,N13\"},{\"branch\":\"B\",\"coord\":\"D16\",\"prob\":0.0856,\"proportion\":0.1753,\"number\":273.0,\"winrate\":0.6131,\"delta\":2.2,\"variation\":\"K15,D4,Q4,P13,O15,O12,R15,K17,K13,H16,G16\"},{\"branch\":\"C\",\"coord\":\"D17\",\"prob\":0.1147,\"proportion\":0.1496,\"number\":233.0,\"winrate\":0.6055,\"delta\":1.8,\"variation\":\"K15,Q4,D4,C14,P17,P13,O15,O12,G15,R6\"},{\"branch\":\"D\",\"coord\":\"N8\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.5109,\"delta\":-0.1,\"variation\":\"D16,Q17,R17,P17,R16,O14,O15,N15,O16,O17,N14,O13,Q14\"}],\"level\":4.0,\"evaluate\":4.113199999999999}",
+        "area": "",
+        "branch": ""
+    },
+    "12": {
+        "id": 52735,
+        "gameId": 1877,
+        "moveNum": 12,
+        "data": "{\"value\":0.4891,\"score\":0.1,\"number\":1100.0,\"coord\":\"N8\",\"options\":[{\"branch\":\"A\",\"coord\":\"D16\",\"prob\":0.1388,\"proportion\":0.5373,\"number\":591.0,\"winrate\":0.5091,\"delta\":0.6,\"variation\":\"Q17,R17,P17,R16,O14,O15,N15,O16,O17,N14,O13,Q14\"},{\"branch\":\"B\",\"coord\":\"Q4\",\"prob\":0.1146,\"proportion\":0.0818,\"number\":90.0,\"winrate\":0.4727,\"delta\":-0.2,\"variation\":\"D16,D4,K16,K13,J14,J13,H13,H12,H14,J11\"},{\"branch\":\"C\",\"coord\":\"C16\",\"prob\":0.0715,\"proportion\":0.0555,\"number\":61.0,\"winrate\":0.478,\"delta\":-0.3,\"variation\":\"Q4,D4,P13,K15,Q17,R17,P17\"},{\"branch\":\"D\",\"coord\":\"L7\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.378,\"delta\":-2.5,\"variation\":\"C16,Q4,D4,Q12,R17,Q17,R16,Q15,S14,R13\"}],\"level\":4.0,\"evaluate\":4.1435}",
+        "area": "",
+        "branch": ""
+    },
+    "13": {
+        "id": 52736,
+        "gameId": 1877,
+        "moveNum": 13,
+        "data": "{\"value\":0.622,\"score\":2.5,\"number\":1533.0,\"coord\":\"L7\",\"options\":[{\"branch\":\"A\",\"coord\":\"C16\",\"prob\":0.086,\"proportion\":0.2029,\"number\":311.0,\"winrate\":0.6365,\"delta\":2.8,\"variation\":\"Q4,D4,Q12,R17,Q17,R16,Q15,S14,R13\"},{\"branch\":\"B\",\"coord\":\"D17\",\"prob\":0.1109,\"proportion\":0.1585,\"number\":243.0,\"winrate\":0.6283,\"delta\":2.6,\"variation\":\"K15,Q4,D4,P13,O15,O12,C15,E16,K17,J15,K13\"},{\"branch\":\"C\",\"coord\":\"Q4\",\"prob\":0.1126,\"proportion\":0.1259,\"number\":193.0,\"winrate\":0.6222,\"delta\":2.6,\"variation\":\"D16,D4,P13,Q17,R17,P17,R16,L17\"},{\"branch\":\"D\",\"coord\":\"J7\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.5314,\"delta\":0.6,\"variation\":\"D16,Q4,D4,P13,K13,R17,Q17,R16,Q15,R15,O15,O12,K15,J14\"}],\"level\":4.0,\"evaluate\":4.1139}",
+        "area": "",
+        "branch": ""
+    },
+    "14": {
+        "id": 52739,
+        "gameId": 1877,
+        "moveNum": 14,
+        "data": "{\"value\":0.4686,\"score\":-0.6,\"number\":1283.0,\"coord\":\"J7\",\"options\":[{\"branch\":\"A\",\"coord\":\"D16\",\"prob\":0.1366,\"proportion\":0.4108,\"number\":527.0,\"winrate\":0.4865,\"delta\":-0.2,\"variation\":\"Q4,D4,P13,K13,R17,Q17,R16,Q15,R15,O15,O12,K15,J14\"},{\"branch\":\"B\",\"coord\":\"Q4\",\"prob\":0.121,\"proportion\":0.1621,\"number\":208.0,\"winrate\":0.4732,\"delta\":-0.4,\"variation\":\"D17,K15,D4,P17,P13,O15,O12,C15,E16,G15,D14\"},{\"branch\":\"C\",\"coord\":\"D4\",\"prob\":0.1124,\"proportion\":0.1177,\"number\":151.0,\"winrate\":0.4668,\"delta\":-0.5,\"variation\":\"Q4,D16,P13,O15,O12,L16,F3,R15,Q18\"},{\"branch\":\"D\",\"coord\":\"H7\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.3822,\"delta\":-2.4,\"variation\":\"C16,Q4,D4,K15,P13,O15,O12,P17,H16,K17,H17,J14\"}],\"level\":4.0,\"evaluate\":4.1131}",
+        "area": "",
+        "branch": ""
+    },
+    "15": {
+        "id": 52738,
+        "gameId": 1877,
+        "moveNum": 15,
+        "data": "{\"value\":0.6178,\"score\":2.4,\"number\":1524.0,\"coord\":\"H7\",\"options\":[{\"branch\":\"A\",\"coord\":\"C16\",\"prob\":0.0907,\"proportion\":0.2034,\"number\":310.0,\"winrate\":0.6315,\"delta\":2.7,\"variation\":\"Q4,D4,K15,P13,O15,O12,P17,H16,K17,H17,J14\"},{\"branch\":\"B\",\"coord\":\"D16\",\"prob\":0.0788,\"proportion\":0.1535,\"number\":234.0,\"winrate\":0.6293,\"delta\":2.8,\"variation\":\"Q4,D4,K15,P13,O15,O12,P17,H16,K17,J15,K13\"},{\"branch\":\"C\",\"coord\":\"Q4\",\"prob\":0.0881,\"proportion\":0.1378,\"number\":210.0,\"winrate\":0.6255,\"delta\":2.7,\"variation\":\"D16,D4,K13,P13,O15,O12,O16,K17,K15,O18,Q18,H18,R11,Q11,Q10,R12\"},{\"branch\":\"D\",\"coord\":\"G7\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.5348,\"delta\":0.4,\"variation\":\"H6,H8,D4,D17,K15,Q4,G8,C3,C4,D3,E4,E3,F3,F2,D15\"}],\"level\":4.0,\"evaluate\":4.1059}",
+        "area": "",
+        "branch": ""
+    },
+    "16": {
+        "id": 52731,
+        "gameId": 1877,
+        "moveNum": 16,
+        "data": "{\"value\":0.4654,\"score\":-0.4088,\"number\":1323.0,\"coord\":\"G7\",\"options\":[{\"branch\":\"A\",\"coord\":\"H6\",\"prob\":0.273,\"proportion\":0.449,\"number\":594.0,\"winrate\":0.4744,\"delta\":-0.2,\"variation\":\"H8,D4,D17,K15,Q4,G8,C3,C4,D3,E4,E3,F3,F2,D15\"},{\"branch\":\"B\",\"coord\":\"H8\",\"prob\":0.2536,\"proportion\":0.2441,\"number\":323.0,\"winrate\":0.4612,\"delta\":-0.6,\"variation\":\"H6,D4,Q4,D16,R17,Q17,R16,Q15,R15,Q14,R14,P13,K15\"},{\"branch\":\"C\",\"coord\":\"G8\",\"prob\":0.1174,\"proportion\":0.0877,\"number\":116.0,\"winrate\":0.4555,\"delta\":-0.5,\"variation\":\"H6,H8,F8,J6,G6,J5,K7,F9,E9,G10,K6,E8,F7\"}],\"level\":1.0,\"evaluate\":1.0201}",
+        "area": "",
+        "branch": ""
+    },
+    "17": {
+        "id": 52730,
+        "gameId": 1877,
+        "moveNum": 17,
+        "data": "{\"value\":0.5445,\"score\":0.5,\"number\":1425.0,\"coord\":\"G8\",\"options\":[{\"branch\":\"A\",\"coord\":\"H6\",\"prob\":0.2325,\"proportion\":0.4372,\"number\":623.0,\"winrate\":0.5549,\"delta\":0.8,\"variation\":\"H8,F8,J6,G6,J5,K7,F9,E9,G10,K6,E8,F7\"},{\"branch\":\"B\",\"coord\":\"Q17\",\"prob\":0.056,\"proportion\":0.1207,\"number\":172.0,\"winrate\":0.5567,\"delta\":0.7,\"variation\":\"R17,P17,R16,O14,O15,N15,N14,P15,O13,O16,Q14\"},{\"branch\":\"C\",\"coord\":\"D17\",\"prob\":0.0918,\"proportion\":0.1053,\"number\":150.0,\"winrate\":0.545,\"delta\":0.5,\"variation\":\"H6,K16,C4,Q4,K13,J14,J13,H13,H14,H12,G14,L13\"},{\"branch\":\"D\",\"coord\":\"M5\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.4245,\"delta\":-2.4,\"variation\":\"H6,H8,C4,D4,C3,D6,D16,J8,R4,R17,Q17\"}],\"level\":4.0,\"evaluate\":4.1432}",
+        "area": "",
+        "branch": ""
+    },
+    "18": {
+        "id": 52723,
+        "gameId": 1877,
+        "moveNum": 18,
+        "data": "{\"value\":0.5755,\"score\":2.4,\"number\":1279.0,\"coord\":\"M5\",\"options\":[{\"branch\":\"A\",\"coord\":\"H6\",\"prob\":0.1696,\"proportion\":0.4191,\"number\":536.0,\"winrate\":0.5904,\"delta\":2.7,\"variation\":\"H8,C4,D4,C3,D6,D16,J8,R4,R17,Q17\"},{\"branch\":\"B\",\"coord\":\"D16\",\"prob\":0.1103,\"proportion\":0.1665,\"number\":213.0,\"winrate\":0.5822,\"delta\":2.6,\"variation\":\"H6,H8,D3,Q4,F8,F9,F7,E9,J6,D7,D5,N3,R17,Q17,R16\"},{\"branch\":\"C\",\"coord\":\"F7\",\"prob\":0.0566,\"proportion\":0.111,\"number\":142.0,\"winrate\":0.5863,\"delta\":2.9,\"variation\":\"C4,Q4,C16,K15,P13,O15,O12,D16\"},{\"branch\":\"D\",\"coord\":\"N4\",\"prob\":1.0E-4,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.4614,\"delta\":-0.4,\"variation\":\"H6,H8,Q4,D16,C4,J6,J5,K6,K5,D4,C3,D5,G6,C5\"}],\"level\":4.0,\"evaluate\":4.1414}",
+        "area": "",
+        "branch": ""
+    },
+    "19": {
+        "id": 52725,
+        "gameId": 1877,
+        "moveNum": 19,
+        "data": "{\"value\":0.5386,\"score\":0.4,\"number\":1256.0,\"coord\":\"N4\",\"options\":[{\"branch\":\"A\",\"coord\":\"H6\",\"prob\":0.1522,\"proportion\":0.3861,\"number\":485.0,\"winrate\":0.5534,\"delta\":0.8,\"variation\":\"H8,Q4,D16,C4,J6,J5,K6,K5,D4,C3,D5,G6,C5\"},{\"branch\":\"B\",\"coord\":\"Q4\",\"prob\":0.0905,\"proportion\":0.1099,\"number\":138.0,\"winrate\":0.5403,\"delta\":0.3,\"variation\":\"H6,D4,D16,H8,J6,J8,G9,K6,K7,J10\"},{\"branch\":\"C\",\"coord\":\"Q17\",\"prob\":0.0506,\"proportion\":0.0876,\"number\":110.0,\"winrate\":0.5475,\"delta\":0.6,\"variation\":\"R17,P17,R16,O14,O15,N15,N14,P15,O13,O16,Q14\"},{\"branch\":\"D\",\"coord\":\"N10\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.3791,\"delta\":-3.5,\"variation\":\"H6,Q4,C4,D16,K15,O14,P17,O17,R15,R14,R6,H8,F7,D4,D3,E3\"}],\"level\":5.0,\"evaluate\":5.1915}",
+        "area": "",
+        "branch": ""
+    },
+    "20": {
+        "id": 52720,
+        "gameId": 1877,
+        "moveNum": 20,
+        "data": "{\"value\":0.6209,\"score\":3.5,\"number\":1144.0,\"coord\":\"N10\",\"options\":[{\"branch\":\"A\",\"coord\":\"H6\",\"prob\":0.1731,\"proportion\":0.5455,\"number\":624.0,\"winrate\":0.6373,\"delta\":3.9,\"variation\":\"Q4,C4,D16,K15,O14,P17,O17,R15,R14,R6,H8,F7,D4,D3,E3\"},{\"branch\":\"B\",\"coord\":\"D16\",\"prob\":0.0768,\"proportion\":0.1469,\"number\":168.0,\"winrate\":0.6303,\"delta\":4.1,\"variation\":\"H6,H8,Q4,D4,F8,F9,F7,E9,J6,K13,D7,F3,H10\"},{\"branch\":\"C\",\"coord\":\"Q4\",\"prob\":0.0967,\"proportion\":0.0857,\"number\":98.0,\"winrate\":0.6127,\"delta\":3.0,\"variation\":\"H6,H8,D16,D4,F8,J6,G6,J5,F9\"},{\"branch\":\"D\",\"coord\":\"K10\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.4526,\"delta\":-0.5,\"variation\":\"Q17,R17,P17,R16,O14,O15,N15,O16,O17,N14,O13,Q14\"}],\"level\":5.0,\"evaluate\":5.202299999999999}",
+        "area": "",
+        "branch": ""
+    },
+    "21": {
+        "id": 52743,
+        "gameId": 1877,
+        "moveNum": 21,
+        "data": "{\"value\":0.5469,\"score\":0.487,\"number\":1349.0,\"coord\":\"K10\",\"options\":[{\"branch\":\"A\",\"coord\":\"Q17\",\"prob\":0.0645,\"proportion\":0.3521,\"number\":475.0,\"winrate\":0.5696,\"delta\":1.1,\"variation\":\"R17,P17,R16,O14,O15,N15,O16,O17,N14,O13,Q14\"},{\"branch\":\"B\",\"coord\":\"H6\",\"prob\":0.1277,\"proportion\":0.1453,\"number\":196.0,\"winrate\":0.5484,\"delta\":0.6,\"variation\":\"H8,Q4,D16,C4,J6,J5,K6,K5,D4,C3,D5,G6\"},{\"branch\":\"C\",\"coord\":\"D17\",\"prob\":0.1107,\"proportion\":0.1016,\"number\":137.0,\"winrate\":0.5423,\"delta\":0.3,\"variation\":\"H6,K16,C4,Q4,K13,J14,J13,H13,H14\"},{\"branch\":\"D\",\"coord\":\"D4\",\"prob\":0.0444,\"proportion\":0.0185,\"number\":25.0,\"winrate\":0.5188,\"delta\":-0.2,\"variation\":\"H6,Q17,R17,P17,R16,O14,O15,N15,O16,O17,N14,O13,Q14\"}],\"level\":4.0,\"evaluate\":4.056000000000001}",
+        "area": "",
+        "branch": ""
+    },
+    "22": {
+        "id": 52742,
+        "gameId": 1877,
+        "moveNum": 22,
+        "data": "{\"value\":0.4812,\"score\":0.2,\"number\":1587.0,\"coord\":\"D4\",\"options\":[{\"branch\":\"A\",\"coord\":\"H6\",\"prob\":0.1703,\"proportion\":0.2842,\"number\":451.0,\"winrate\":0.4904,\"delta\":0.5,\"variation\":\"Q17,R17,P17,R16,O14,O15,N15,O16,O17,N14,O13,Q14\"},{\"branch\":\"B\",\"coord\":\"D16\",\"prob\":0.1238,\"proportion\":0.2161,\"number\":343.0,\"winrate\":0.4909,\"delta\":0.6,\"variation\":\"H6,H8,Q4,P13,P14,Q14,Q17,P15,R17,P17,P18,O17,O18\"},{\"branch\":\"C\",\"coord\":\"Q4\",\"prob\":0.1388,\"proportion\":0.1928,\"number\":306.0,\"winrate\":0.4869,\"delta\":0.3,\"variation\":\"D17,K15,H6,H8,P13,O15,K17,H15,O16,P15,Q17,R17,P17,R18,R15\"},{\"branch\":\"D\",\"coord\":\"E8\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.3239,\"delta\":-4.0,\"variation\":\"H6,H8,D17,K15,Q4,P13,D15,P17,R14,Q12,S16,R17,S17,S12,R18\"}],\"level\":5.0,\"evaluate\":5.1845}",
+        "area": "",
+        "branch": ""
+    },
+    "23": {
+        "id": 52741,
+        "gameId": 1877,
+        "moveNum": 23,
+        "data": "{\"value\":0.6761,\"score\":4.0,\"number\":1528.0,\"coord\":\"E8\",\"options\":[{\"branch\":\"A\",\"coord\":\"H6\",\"prob\":0.0849,\"proportion\":0.267,\"number\":408.0,\"winrate\":0.6932,\"delta\":4.4,\"variation\":\"H8,D17,K15,Q4,P13,D15,P17,R14,Q12,S16,R17,S17,S12,R18\"},{\"branch\":\"B\",\"coord\":\"D17\",\"prob\":0.1042,\"proportion\":0.2186,\"number\":334.0,\"winrate\":0.6884,\"delta\":4.3,\"variation\":\"K15,Q4,H6,P13,O15,D15,K17,J15,K13,J14\"},{\"branch\":\"C\",\"coord\":\"C16\",\"prob\":0.065,\"proportion\":0.0877,\"number\":134.0,\"winrate\":0.6809,\"delta\":4.1,\"variation\":\"Q4,P13,H6,R17,Q17,R16,Q15,R15\"},{\"branch\":\"D\",\"coord\":\"B9\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.4879,\"delta\":-1.0,\"variation\":\"D16,H6,H8,Q4,P13,P14,Q14,Q17,P15,P17,R17,R18,S18,O14\"}],\"level\":5.0,\"evaluate\":5.2269000000000005}",
+        "area": "",
+        "branch": ""
+    },
+    "24": {
+        "id": 52729,
+        "gameId": 1877,
+        "moveNum": 24,
+        "data": "{\"value\":0.5121,\"score\":1.0,\"number\":1290.0,\"coord\":\"B9\",\"options\":[{\"branch\":\"A\",\"coord\":\"D16\",\"prob\":0.1742,\"proportion\":0.3992,\"number\":515.0,\"winrate\":0.5252,\"delta\":1.5,\"variation\":\"H6,H8,Q4,P13,P14,Q14,Q17,P15,P17,R17,R18,S18,O14\"},{\"branch\":\"B\",\"coord\":\"Q4\",\"prob\":0.1086,\"proportion\":0.1581,\"number\":204.0,\"winrate\":0.5182,\"delta\":1.0,\"variation\":\"D17,K15,K17,H15,Q17,P17,P16,R17,Q18,R16,P18,P15,O17\"},{\"branch\":\"C\",\"coord\":\"H6\",\"prob\":0.1437,\"proportion\":0.1341,\"number\":173.0,\"winrate\":0.5064,\"delta\":0.8,\"variation\":\"D17,K15,Q4,P13,K17,H15,Q17,P17,P16,R17,Q18,P18,R18\"},{\"branch\":\"D\",\"coord\":\"D5\",\"prob\":5.0E-4,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.4153,\"delta\":-1.6,\"variation\":\"C5,C6,C4,D16,Q4,H6,P13,O15,K16,K13,J14,J13,O12,H14,O16\"}],\"level\":4.0,\"evaluate\":4.1223}",
+        "area": "",
+        "branch": ""
+    },
+    "25": {
+        "id": 52748,
+        "gameId": 1877,
+        "moveNum": 25,
+        "data": "{\"value\":0.5847,\"score\":1.6,\"number\":1322.0,\"coord\":\"D5\",\"options\":[{\"branch\":\"A\",\"coord\":\"C5\",\"prob\":0.1908,\"proportion\":0.3903,\"number\":516.0,\"winrate\":0.5978,\"delta\":1.9,\"variation\":\"C6,C4,D16,Q4,H6,P13,O15,K16,K13,J14,J13,O12,H14,O16\"},{\"branch\":\"B\",\"coord\":\"C4\",\"prob\":0.2412,\"proportion\":0.1785,\"number\":236.0,\"winrate\":0.571,\"delta\":1.3,\"variation\":\"Q4,D17,K15,P13,O15,O12,C15,F16,G16,F15,C12\"},{\"branch\":\"C\",\"coord\":\"E5\",\"prob\":0.0948,\"proportion\":0.1362,\"number\":180.0,\"winrate\":0.5913,\"delta\":1.8,\"variation\":\"C4,C3,C5,D3,E6,H6,H8,F6,D7,C16,Q4,C12,P13,K16,K13,J14,D17,C17\"},{\"branch\":\"D\",\"coord\":\"P3\",\"prob\":5.0E-4,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.5296,\"delta\":0.1,\"variation\":\"C4,C3,C5,D3,H6,C16,C12,R4,D16,C17,D14,B14\"}],\"level\":4.0,\"evaluate\":4.0754}",
+        "area": "",
+        "branch": ""
+    },
+    "26": {
+        "id": 52747,
+        "gameId": 1877,
+        "moveNum": 26,
+        "data": "{\"value\":0.4704,\"score\":-0.1,\"number\":3011.0,\"coord\":\"P3\",\"options\":[{\"branch\":\"A\",\"coord\":\"C4\",\"prob\":0.1798,\"proportion\":0.2627,\"number\":791.0,\"winrate\":0.4769,\"delta\":0.1,\"variation\":\"C3,C5,D3,H6,C16,C12,R4,D16,C17,D14,B14\"},{\"branch\":\"B\",\"coord\":\"D16\",\"prob\":0.0644,\"proportion\":0.2003,\"number\":603.0,\"winrate\":0.4861,\"delta\":0.5,\"variation\":\"C5,H6,R4,C6,C4,C14,H8,K13,J13,K12,P13,K15,J14,J12\"},{\"branch\":\"C\",\"coord\":\"C5\",\"prob\":0.1577,\"proportion\":0.1508,\"number\":454.0,\"winrate\":0.4676,\"delta\":-0.2,\"variation\":\"C16,E4,R4,C12,E3,D3,K16,K13,J14,J13,H13,H14,H12\"},{\"branch\":\"D\",\"coord\":\"T3\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.0796,\"delta\":-12.5,\"variation\":\"C5,C6,C4,D16,R4,H6,Q17,R17,P17,R16\"}],\"level\":6.0,\"evaluate\":6.447699999999999}",
+        "area": "",
+        "branch": ""
+    },
+    "27": {
+        "id": 52746,
+        "gameId": 1877,
+        "moveNum": 27,
+        "data": "{\"value\":0.9204,\"score\":12.5,\"number\":1392.0,\"coord\":\"T3\",\"options\":[{\"branch\":\"A\",\"coord\":\"C5\",\"prob\":0.1162,\"proportion\":0.2694,\"number\":375.0,\"winrate\":0.9327,\"delta\":12.9,\"variation\":\"C6,C4,D16,R4,H6,Q17,R17,P17,R16\"},{\"branch\":\"B\",\"coord\":\"E5\",\"prob\":0.0717,\"proportion\":0.1185,\"number\":165.0,\"winrate\":0.927,\"delta\":12.9,\"variation\":\"C4,C3,C5,D3,E6,H6,H8,F6,D7,C13,D16,R4\"},{\"branch\":\"C\",\"coord\":\"D17\",\"prob\":0.058,\"proportion\":0.1049,\"number\":146.0,\"winrate\":0.9289,\"delta\":12.9,\"variation\":\"C4,C3,C5,D3,H6,C12,K15,D15,E14,D14\"},{\"branch\":\"D\",\"coord\":\"T7\",\"prob\":0.0,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.5721,\"delta\":1.2,\"variation\":\"C4,C3,C5,D3,H6,C16,R3,P5,R6,K16,K13,J14,J13,H13,H12,H14,D17,C17,D16\"}],\"level\":6.0,\"evaluate\":6.4074}",
+        "area": "",
+        "branch": ""
+    },
+    "28": {
+        "id": 52745,
+        "gameId": 1877,
+        "moveNum": 28,
+        "data": "{\"value\":0.4279,\"score\":-1.2,\"number\":1915.0,\"coord\":\"T7\",\"options\":[{\"branch\":\"A\",\"coord\":\"C4\",\"prob\":0.1566,\"proportion\":0.3201,\"number\":613.0,\"winrate\":0.4403,\"delta\":-0.9,\"variation\":\"C3,C5,D3,H6,C16,R3,P5,R6,K16,K13,J14,J13,H13,H12,H14,D17,C17,D16\"},{\"branch\":\"B\",\"coord\":\"R3\",\"prob\":0.2742,\"proportion\":0.3196,\"number\":612.0,\"winrate\":0.4294,\"delta\":-1.2,\"variation\":\"C5,D16,P5,R6,R8,H6,Q17,R17,P17,R16,O14,S13,K17,K15\"},{\"branch\":\"C\",\"coord\":\"Q4\",\"prob\":0.1648,\"proportion\":0.1389,\"number\":266.0,\"winrate\":0.4202,\"delta\":-1.4,\"variation\":\"P4,Q3,Q5,P5,Q2,R2,P2,R5,Q6,R6,O5,C4,C3\"},{\"branch\":\"D\",\"coord\":\"R10\",\"prob\":5.0E-4,\"proportion\":0.0,\"number\":0.0,\"winrate\":0.3741,\"delta\":-2.7,\"variation\":\"C5,C6,C4,Q4,P4,Q5,P5,Q6,Q3,R3\"}],\"level\":4.0,\"evaluate\":4.0733999999999995}",
+        "area": "",
+        "branch": ""
+    },
+    "29": {
+        "id": 52740,
+        "gameId": 1877,
+        "moveNum": 29,
+        "data": "{\"value\":0.6259,\"score\":2.7,\"number\":1423.0,\"coord\":\"R10\",\"options\":[{\"branch\":\"A\",\"coord\":\"C5\",\"prob\":0.0874,\"proportion\":0.286,\"number\":407.0,\"winrate\":0.6435,\"delta\":3.2,\"variation\":\"C6,C4,Q4,P4,Q5,P5,Q6,Q3,R3\"},{\"branch\":\"B\",\"coord\":\"R4\",\"prob\":0.1236,\"proportion\":0.1609,\"number\":229.0,\"winrate\":0.6295,\"delta\":2.8,\"variation\":\"C4,C3,C5,D3,H6,C16,C12,E17,K15,P13,O15,O12,O11,N12,R7\"},{\"branch\":\"C\",\"coord\":\"R7\",\"prob\":0.1066,\"proportion\":0.1356,\"number\":193.0,\"winrate\":0.6289,\"delta\":2.9,\"variation\":\"Q4,P4,Q5,Q3,R3,R2,S4,S2,P5,O5\"}]}",
+        "area": "",
+        "branch": ""
+    }
+}

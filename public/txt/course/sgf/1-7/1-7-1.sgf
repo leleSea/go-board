@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[pd][pn][pp][mh][pj][pf][is][nq][oc][lq][js][jq][na][pb][ma][hq][ng]
+[mi][nb][lj][lk][ll][lm][nf][oe][km][mn][mo][nd][mp][kr][lr][mf][od][kn][ln]AW[kb]
+[lg][mb][lh][li][dp][kj][dd][kk][jd][kl][jp][mg][lo][me][iq][ce][ko][jm][jo][dg]
+[ir][hp][io][kq][hs][kp][hr][cn][ne][lf][lp][md][nc][mc][jn][la]C[LT{}-
+TYPE{1}-
+Q{请大致判断下这盘棋的胜者是？（中国规则，分先）}-
+S{A\:黑方,B\:白方}-
+CA{B}-]
+AP[MultiGo:4.4.4]SZ[19]AB[jr]MULTIGOGM[1]
+)

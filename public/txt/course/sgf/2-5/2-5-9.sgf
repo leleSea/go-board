@@ -1,0 +1,14 @@
+(;CA[gb2312]AB[rd][qc][pc][ob][nc][mb][na][kg][jh][ki][li][mi]AW[pb][qb][rb][qd]
+[pd][od][oc][re][lh][kh][ji][jj]C[LT{}-
+SQ{KH,LH}-
+TYPE{0}-
+Q{黑先，请利用征吃吃掉标记的两子}-
+EL{LG,F}-]
+AP[MultiGo:4.4.4]SZ[19]AB[rc]MULTIGOGM[1]
+
+(;B[mh];W[lg]C[EL{LF,F}-];B[lf];W[mg]C[EL{NG,F}-];B[ng];W[mf]C[EL{ME,F}-];B[me]
+;W[nf]C[EL{OF,F}-];B[of];W[ne]C[EL{ND,F}-];B[nd];W[oe]C[EL{QE,F}-];B[qe]C[T])
+(;B[lg];W[mh]C[EL{NH,F}-];B[nh];W[mg]C[EL{MF,F}-];B[mf];W[ng]C[EL{OG,F}-];B[og]
+;W[nf]C[EL{NE,F}-];B[ne];W[of]C[EL{PF,F}-];B[pf];W[oe]C[F])
+(;B[mg];W[jg]C[F])
+(;B[lf];W[jg]C[F]))
