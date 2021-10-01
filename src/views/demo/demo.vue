@@ -162,8 +162,8 @@
         justify-content: center;
         align-items: center;
         .board-element{
-            width: 50vh;
-            height: 50vh;
+            width: 70vh;
+            height: 70vh;
         }
         .board-control{
             margin-top: 1rem;
